@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/meghathakur23/winUall/static/css/main.0e056e28.chunk.css",
+    "main.js": "/meghathakur23/winUall/static/js/main.415043cb.chunk.js",
+    "main.js.map": "/meghathakur23/winUall/static/js/main.415043cb.chunk.js.map",
+    "runtime-main.js": "/meghathakur23/winUall/static/js/runtime-main.b92da293.js",
+    "runtime-main.js.map": "/meghathakur23/winUall/static/js/runtime-main.b92da293.js.map",
+    "static/css/2.58a7a907.chunk.css": "/meghathakur23/winUall/static/css/2.58a7a907.chunk.css",
+    "static/js/2.606decd3.chunk.js": "/meghathakur23/winUall/static/js/2.606decd3.chunk.js",
+    "static/js/2.606decd3.chunk.js.map": "/meghathakur23/winUall/static/js/2.606decd3.chunk.js.map",
+    "index.html": "/meghathakur23/winUall/index.html",
+    "precache-manifest.662623aabb7acb8d1a7b651cbb258f86.js": "/meghathakur23/winUall/precache-manifest.662623aabb7acb8d1a7b651cbb258f86.js",
+    "service-worker.js": "/meghathakur23/winUall/service-worker.js",
+    "static/css/2.58a7a907.chunk.css.map": "/meghathakur23/winUall/static/css/2.58a7a907.chunk.css.map",
+    "static/css/main.0e056e28.chunk.css.map": "/meghathakur23/winUall/static/css/main.0e056e28.chunk.css.map",
+    "static/js/2.606decd3.chunk.js.LICENSE.txt": "/meghathakur23/winUall/static/js/2.606decd3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b92da293.js",
+    "static/css/2.58a7a907.chunk.css",
+    "static/js/2.606decd3.chunk.js",
+    "static/css/main.0e056e28.chunk.css",
+    "static/js/main.415043cb.chunk.js"
+  ]
+}
