@@ -1,0 +1,82 @@
+
+.dx-c-bs4-container{
+  height: 140px !important;
+
+}
+
+.MuiPaper-root {
+  width: '10%';
+}
+
+.dy2l{
+  background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+}
+
+h1{
+  padding-left: 110px !important
+}
+
+.green{
+  background: #1f4037 !important;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #99f2c8, #1f4037) !important;  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #99f2c8, #1f4037) !important; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.yellow{
+  background: #F7971E;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #FFD200, #F7971E);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #FFD200, #F7971E); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  
+}
+.red{
+  background: #ff9966;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #ff5e62, #ff9966);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #ff5e62, #ff9966); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */  
+}
+
+.purple{
+  background: #8E2DE2;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #4A00E0, #8E2DE2);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #4A00E0, #8E2DE2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.m-2{
+  margin: 10px !important;
+}
+.space-between{
+  display: flex;
+  justify-content: space-between;
+}
+
+
+h3{
+  padding-left: 110px !important;
+  color: #282c34;
+}
+span{
+  color: #09a6df;
+  margin-left: 50px;
+}
+
+.MuiListItem-root {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+
+}
+.blue{
+  background: #2193b0;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #6dd5ed, #2193b0);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #6dd5ed, #2193b0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+color: white;
+}
+.aling-item-center{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+.space-between{
+  display: flex;
+  justify-content: space-between;
+}
+
